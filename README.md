@@ -1,9 +1,9 @@
 ## Parkinson-Disease-prediction-web-Application-using-machine-Learning
-Overview
+Overview :
 This project leverages machine learning to predict Parkinson's Disease using vocal characteristics. By analyzing features such as jitter, shimmer, and harmonic-to-noise ratio (HNR), the model provides a non-invasive, cost-effective diagnostic solution. A user-friendly web application allows individuals to upload voice samples and receive predictions in real-time.
 
 
-Features
+Features :
 Non-invasive prediction of Parkinson’s Disease based on vocal characteristics.
 Machine learning models like Random Forest and Support Vector Machine (SVM) for high accuracy.
 Feature importance analysis to highlight key vocal indicators.
